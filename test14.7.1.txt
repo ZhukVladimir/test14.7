@@ -1,0 +1,1 @@
+	1	Say goodbye to the command line - simplify distributed version control with a Git client and quickly bring everyone up to speed.
