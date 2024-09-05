@@ -1,1 +1,5 @@
-	1	Say goodbye to the command line - simplify distributed version control with a Git client and quickly bring everyone up to speed.
+Добавьте файл в свой репозиторий на сервере.
+Откройте приложение Git GUI или GitBash для работы с Git.
+Добавьте изменения с сервера.
+Проверьте, что добавленный файл появился на вашем компьютере.
+
